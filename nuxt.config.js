@@ -51,6 +51,5 @@ export default {
   target: 'static',
 
   router: {
-    base: '/my-test/'
   },
 }
