@@ -16,7 +16,7 @@ export default {
       { hid: 'og:url', property: 'og:url', content: 'https://mill.kai-you.co.jp' },
       { hid: 'og:title', property: 'og:title', content: 'MILL' },
       { hid: 'og:description', property: 'og:description', content: 'MILLは2021年7月に発足したデザインスタジオです。Web構築をはじめとするUI設計、施作提案やCI・VI、ビジュアルデザイン、プロモーションムービーを含む撮影・編集業務をメインにお客様のブランディングを包括的にディレクションいたします。お客様のかけがえのないブランドの魅力を多角的に観察し、新しい見え方やより研鑽された姿をご提案いたします。' },
-      { hid: 'og:image', property: 'og:image', content: 'https://mill.kai-you.co.jp/img/mill-kv.jpg' },
+      { hid: 'og:image', property: 'og:image', content: 'https://mill.kai-you.co.jp/mill-ogp.jpg' },
       { name: 'twitter:card', content: 'summary_large_image' },
       { name: 'twitter:url', content: 'https://mill.kai-you.co.jp' },
       { name: 'twitter:title', content: 'MILL' }
