@@ -121,19 +121,19 @@
       <img class="members__back" src="~/assets/img/members-back.jpg" alt="">
       <div class="members__wrapper">
         <div class="members__container">
-          <img src="~/assets/img/member01.jpg" alt="">
-          <div class="members__txt">
-            <p class="members__txt--name">渡邊 晴奈</p>
-            <p class="members__txt--small">Haruna Watanabe</p>
-            <p class="members__txt--small">アートディレクター／デザイナー</p>
-          </div>
-        </div>
-        <div class="members__container">
           <img src="~/assets/img/member02.jpg" alt="">
           <div class="members__txt">
             <p class="members__txt--name">古見 湖</p>
-            <p class="members__txt--small">Mizuumi　furumi</p>
+            <p class="members__txt--small">Mizuumi furumi</p>
             <p class="members__txt--small">ビデオグラファー／映像監督</p>
+          </div>
+        </div>
+        <div class="members__container">
+          <img src="~/assets/img/member04.jpg" alt="">
+          <div class="members__txt">
+            <p class="members__txt--name">尾<span class="special-character">﨑</span> 雄基</p>
+            <p class="members__txt--small">Yuki Ozaki</p>
+            <p class="members__txt--small">デザイナー</p>
           </div>
         </div>
         <div class="members__container">
